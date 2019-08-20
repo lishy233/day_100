@@ -1,5 +1,5 @@
 {
-	products:[
+	"products":[
 		{"id": 1, "name": "iPhone X", "quantity": 20},
 		{"id": 2, "name": "华为 Mate20", "quantity": 0},
 		{"id": 3, "name": "小米 Mix3", "quantity": 50}
